@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-camera](backend/modules)
 - [django-two-factor-authentication](backend/modules)
 - [django-articles](backend/modules)
+- [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 
 # Getting started: Frontend
 
